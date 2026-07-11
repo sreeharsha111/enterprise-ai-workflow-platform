@@ -1,2 +1,34 @@
-# enterprise-ai-workflow-platform
-AI-powered enterprise workflow automation platform using React, FastAPI, PostgreSQL, RAG, MCP, and AI Agents.
+# Enterprise AI Workflow Platform
+
+## Vision
+
+Build an AI-powered workflow automation platform that combines:
+
+- Workflow Automation
+- AI Agents
+- MCP Tools
+- RAG
+- Enterprise Task Management
+
+## Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- MUI
+
+### Backend
+- FastAPI
+- PostgreSQL
+
+### AI
+- Gemini
+- LangChain
+
+### Deployment
+- Docker
+- AWS
+
+## Status
+
+🚧 Planning Phase
